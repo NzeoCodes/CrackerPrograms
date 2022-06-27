@@ -1,0 +1,1 @@
+x=msgbox("You have won our 100$ Gift Card for Anything! Do you accept the offer?" ,4, "Offer!")

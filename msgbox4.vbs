@@ -1,0 +1,1 @@
+x=msgbox("Windows has stopped responding. Do you want to close?" ,0, "Microsoft")

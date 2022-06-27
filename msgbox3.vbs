@@ -1,0 +1,1 @@
+x=msgbox("4 threats found! Please delete them by installing VirusFinder!" ,16, "Windows")

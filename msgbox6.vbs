@@ -1,0 +1,1 @@
+x=msgbox("Allow Trojan.TerryBlocker/Win32 to access current location?" ,0, "Windows")
